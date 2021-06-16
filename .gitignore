@@ -1,0 +1,8 @@
+__pycache__/
+node_modules/
+.*/
+*.log
+*.lock
+*.h5
+test.js
+test.py
